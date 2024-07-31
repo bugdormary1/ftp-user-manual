@@ -14,10 +14,30 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 1.First use net2ftp website to log into your accounts
 
-2.click on FTP and SSH online
+2.click on FTP and SSH online,it opens net2ftp login
 
-3.ftp account (mary.coxygen.co)
+3.enter ftp.coxygen.co at server side
 
-4.enter password
+4.maintain server 21
+
+5.ftp user name (mary.coxygen.co)
+
+6.enter password
  
-5. login
+7. login
+
+## Uploading coxylib library file
+
+There are two ways to upload this library, one is to upload the whole coxylib library folder from the coxygen main file, and the second is to open the coxylib library folder from coxygen main and upload each file that you see in the coxylib library.
+
+## step one(uploading whole folder)
+
+We are using Coxygen,therefore go to github and search for wims/coxygen.co
+
+1.click on coxylib
+
+2.click on code 
+
+3.click on download zip
+
+4.choose coxylib and extract 
