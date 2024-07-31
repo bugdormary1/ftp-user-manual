@@ -12,7 +12,9 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 ## Steps to get into FTP
 
-1.First use net2ftp website to log into your accounts
+1.First use (net2ftp.com) server to log into your accounts
+
+![cam 2024-07-30-00-01]
 
 2.click on FTP and SSH online,it opens net2ftp login
 
@@ -90,7 +92,21 @@ To complete the process of testing on how to mint tokens in smart contracts, the
 
 8.click on correct symbol to upload/submit.
 
-##
+### Running or testing index file steps
+
+1.at net2ftp(ftp.coxygen.co) 
+
+2.click on index
+
+3.edit website to (coxygen.co/coxygen.co/demo/index.hmtl)
+
+4.Nami wallet appears,click on access
+
+5.click on reload buttom to run it.
+
+## Conclusion
+
+These are the simple steps to follow as a new developer to login, upload, and simply test some libraries with coxygen coxylib libraries. Coxygen global is there to make it easiler and simplier for you to learn web development. 
 
 
 
