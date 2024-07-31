@@ -50,7 +50,7 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 7.click the correct symbol to upload/submit
 
-#### step two(one by on upload)
+#### step two(one by one upload)
 
 1. go to net2ftp(ftp.coxygen.co)
 
@@ -62,9 +62,9 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 5. click on choose file
 
-6. search for file at downloads,click on coxylib main
+6. search for file at downloads on your pc,click on coxylib main
 
-7. now open coxylib folder,choose files one by one (jquery js ,jimpa js,helios js)
+7. now open coxylib folder,choose files one by one (jquery js, jimpa js, helios js)
 
 8. click on the correct symbol to upload/submit.
 
@@ -89,6 +89,8 @@ To complete the process of testing on how to mint tokens in smart contracts, the
 7.again click mint Asset.js
 
 8.click on correct symbol to upload/submit.
+
+##
 
 
 
