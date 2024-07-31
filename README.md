@@ -32,7 +32,7 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 There are two ways to upload this library, one is to upload the whole coxylib library folder from the coxygen main file, and the second is to open the coxylib library folder from coxygen main and upload each file that you see in the coxylib library.
 
-### step one(uploading whole folder)
+#### step one(uploading whole folder)
 
 We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
@@ -72,7 +72,7 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 To complete the process of testing on how to mint tokens in smart contracts, there are other coxylib libraries that needs to be uploaded for a successful and smooth testing.These include, index, mint AssetScript and mint Asset.js. To upload these libraries follow the steps below.
 
-### steps
+#### steps
 
 1.at net2ftp(ftp.coxygen.co)
 
@@ -90,7 +90,7 @@ To complete the process of testing on how to mint tokens in smart contracts, the
 
 8.click on correct symbol to upload/submit.
 
-### Running or testing index file steps
+## Running or testing index file steps
 
 1.at net2ftp(ftp.coxygen.co) 
 
