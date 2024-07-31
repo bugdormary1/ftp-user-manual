@@ -1,6 +1,6 @@
 ## Introducton
 
-This manual is to teach or demonstrate how to login, transfer, and test FTP accounts with a library called COXYLIB.
+This manual is to teach or demonstrate how to login into ftp accounts and upload coxylib library files for testing how to mint tokens in Cardano smart contracts,specifically with HELIOS smart contract in coxygen global.
 
 ## About FTP
 
@@ -18,26 +18,77 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 3.enter ftp.coxygen.co at server side
 
-4.maintain server 21
+4.maintain server port 21
 
 5.ftp user name (mary.coxygen.co)
 
 6.enter password
+
+7.verify (am not a robot)
  
-7. login
+8.then login
 
 ## Uploading coxylib library file
 
 There are two ways to upload this library, one is to upload the whole coxylib library folder from the coxygen main file, and the second is to open the coxylib library folder from coxygen main and upload each file that you see in the coxylib library.
 
-## step one(uploading whole folder)
+### step one(uploading whole folder)
 
 We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
-1.click on coxylib
+1.click on coxylib library
 
 2.click on code 
 
 3.click on download zip
 
 4.choose coxylib and extract 
+
+5.go back to net2ftp login(ftp.coxygen.co) and upload
+
+6.now choose coxylib file 
+
+7.click the correct symbol to upload/submit
+
+#### step two(one by on upload)
+
+1. go to net2ftp(ftp.coxygen.co)
+
+2. click on New dir
+
+3. creat new directories with name(js),now click on correct symbol to create
+
+4. click on js directory
+
+5. click on choose file
+
+6. search for file at downloads,click on coxylib main
+
+7. now open coxylib folder,choose files one by one (jquery js ,jimpa js,helios js)
+
+8. click on the correct symbol to upload/submit.
+
+## Other libraries uploads
+
+To complete the process of testing on how to mint tokens in smart contracts, there are other coxylib libraries that needs to be uploaded for a successful and smooth testing.These include, index, mint AssetScript and mint Asset.js. To upload these libraries follow the steps below.
+
+### steps
+
+1.at net2ftp(ftp.coxygen.co)
+
+2.click on choose file
+
+3.go to downloads on your  pc again
+
+4.click on coxylib main
+
+5.click on index 
+
+6.go back to coxylib and click on mint AssetScript
+
+7.again click mint Asset.js
+
+8.click on correct symbol to upload/submit.
+
+
+
