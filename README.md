@@ -14,8 +14,6 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 1.First use (net2ftp.com) server to log into your accounts
 
-![cam 2024-07-30-00-01]
-
 2.click on FTP and SSH online,it opens net2ftp login
 
 3.enter ftp.coxygen.co at server side
