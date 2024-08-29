@@ -1,4 +1,4 @@
-## Introducton
+## Introduction
 
 This manual is to teach or demonstrate how to login into ftp accounts and upload coxylib library files for testing how to mint tokens in Cardano smart contracts,specifically with HELIOS smart contract in coxygen global.
 
