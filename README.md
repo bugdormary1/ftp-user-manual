@@ -82,14 +82,18 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 ![bandicam 2024-09-01 00-39-45-796](https://github.com/user-attachments/assets/bbe4481f-d075-4a6a-9c9c-507c5d5134ba)
 
-
 8. click on the correct symbol to upload/submit.
 
 ![bandicam 2024-09-01 00-43-26-805](https://github.com/user-attachments/assets/16b02087-91ca-4559-8801-71c5ee18df2d)
 
-screen dispay after submit
+screen display after submit
 
 ![bandicam 2024-09-01 00-47-56-320](https://github.com/user-attachments/assets/6ffb5267-5253-424b-a7b6-fd96ace2e4a1)
+
+uploaded coxylib libraries
+
+![bandicam 2024-09-01 00-56-43-524](https://github.com/user-attachments/assets/c3d77e46-ea48-4322-abb3-3938381efa28)
+
 
 ## Other libraries uploads
 
@@ -99,7 +103,7 @@ To complete the process of testing on how to mint tokens in smart contracts, the
 
 1.at net2ftp(ftp.coxygen.co)
 
-2.click on choose file
+2.click on upload and choose file
 
 3.go to downloads on your  pc again
 
@@ -112,6 +116,10 @@ To complete the process of testing on how to mint tokens in smart contracts, the
 7.again click mint Asset.js
 
 8.click on correct symbol to upload/submit.
+
+uploaded coxylib libraries
+
+![bandicam 2024-09-01 00-56-43-524](https://github.com/user-attachments/assets/c3d77e46-ea48-4322-abb3-3938381efa28)
 
 ## Running or testing index file steps
 
