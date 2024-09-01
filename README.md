@@ -44,8 +44,10 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 ![bandicam 2024-08-31 23-57-16-110](https://github.com/user-attachments/assets/fc8a4774-44aa-4ca7-898e-da9089894a7d)
 
-
 1.click on coxylib library
+
+![bandicam 2024-09-01 00-02-34-562](https://github.com/user-attachments/assets/87588214-a316-4952-ac52-42cc43ad28c6)
+
 
 2.click on code 
 
