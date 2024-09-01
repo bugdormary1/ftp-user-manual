@@ -42,6 +42,7 @@ There are two ways to upload this library, one is to upload the whole coxylib li
 
 We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
+![bandicam 2024-08-31 23-57-16-110](https://github.com/user-attachments/assets/fc8a4774-44aa-4ca7-898e-da9089894a7d)
 
 
 1.click on coxylib library
