@@ -1,6 +1,13 @@
-## Introduction
+## Introduction To Coxylib shared hosting deployment and testing
+
+![coxygen](https://github.com/user-attachments/assets/2b33f518-2c0e-4b90-8b81-bb4c07378e20)
 
 This manual is to teach or demonstrate how to login into ftp accounts and upload coxylib library files for testing how to mint tokens in Cardano smart contracts,specifically with HELIOS smart contract in coxygen global.
+
+## Advantages
+
+Helios is a Cardano Smart Contract development language which is 100% client side and has zero dependencies. It allows web3 integration with static websites and web apps simple and quick. Coxylib further simplifies the Helios library making 
+it easy and quick to integrate web3. One of the biggest problems in Cardano is deployment. Shared hosting deployment is inexpensive and quick and this coxygen ftp is one such.
 
 ## About FTP
 
@@ -28,9 +35,9 @@ The COXYLIB library is a simplifier of our Helios classes. With the COXYLIB libr
 
 5.ftp user name (mary.coxygen.co)
 
-6.enter password
+6.enter password - you will get this from Coxygen administrator Mr Bernard Sibanda
 
-7.verify (am not a robot)
+7.verify (am not a robot) 
  
 8.then login
 
@@ -40,7 +47,7 @@ There are two ways to upload this library, one is to upload the whole coxylib li
 
 #### step one(uploading whole folder)
 
-We are using Coxygen,therefore go to github and search for wims/coxygen.co
+We are using Coxygen,therefore go to github and search for https://github/wimsio/coxygen.co
 
 ![bandicam 2024-08-31 23-57-16-110](https://github.com/user-attachments/assets/fc8a4774-44aa-4ca7-898e-da9089894a7d)
 
