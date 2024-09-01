@@ -54,11 +54,11 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 ![bandicam 2024-09-01 00-11-30-086](https://github.com/user-attachments/assets/33ad55d7-9c8b-4493-8efe-0af577e7db96)
 
 
-3.click on download zip
+3.click on download zip,download it and open 
 
 4.choose coxylib and extract 
 
-5.go back to net2ftp login(ftp.coxygen.co) and upload
+5.go back to net2ftp login(ftp.coxygen.co) and click on  upload
 
 6.now choose coxylib file 
 
@@ -80,7 +80,16 @@ We are using Coxygen,therefore go to github and search for wims/coxygen.co
 
 7. now open coxylib folder,choose files one by one (jquery js, jimpa js, helios js)
 
+![bandicam 2024-09-01 00-39-45-796](https://github.com/user-attachments/assets/bbe4481f-d075-4a6a-9c9c-507c5d5134ba)
+
+
 8. click on the correct symbol to upload/submit.
+
+![bandicam 2024-09-01 00-43-26-805](https://github.com/user-attachments/assets/16b02087-91ca-4559-8801-71c5ee18df2d)
+
+screen dispay after submit
+
+![bandicam 2024-09-01 00-47-56-320](https://github.com/user-attachments/assets/6ffb5267-5253-424b-a7b6-fd96ace2e4a1)
 
 ## Other libraries uploads
 
